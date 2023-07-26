@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'AdobeArabic';
+    font-weight: normal;
+    font-style: normal;
+    src: url("../fonts/AdobeArabic-Regular.otf") format('opentype');
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url("../fonts/Avenir.ttc") format('truetype-collection');
+}
+
+@font-face {
+    font-family: 'ClearSans';
+    font-weight: bold;
+    font-style: normal;
+    src: url("../fonts/ClearSans-Bold.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'ClearSans';
+    font-weight: normal;
+    font-style: normal;
+    src: url("../fonts/ClearSans-Regular.ttf") format('truetype');
+}

@@ -1,0 +1,304 @@
+.content .text_demo {
+    color: blueviolet;
+    font-size: 50px;
+    font-weight: 700;
+    position: absolute;
+    left: 70px;
+}
+
+footer .text_demo {
+    color: blueviolet;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    left: 70px;
+}
+
+.row {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.pr {
+    position: relative;
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.resized-image {
+    width: 50%;
+    height: 50%;
+}
+
+.font-Sans {
+    font-family: 'ClearSans';
+}
+
+.font-Avenir {
+    font-family: 'Avenir';
+}
+
+.fw-bold {
+    font-weight: bold;
+}
+
+.text-white {
+    color: white;
+}
+
+.decoration-none {
+    text-decoration: none;
+}
+
+.item-center {
+    align-items: center;
+}
+
+.space-evenly {
+    justify-content: space-evenly
+}
+
+.fw-regular {
+    font-weight: 400;
+}
+
+.height-unset {
+    height: unset;
+}
+
+.darkgreen {
+    color: #067252;
+}
+
+.lightgreen-bg {
+    background-color: #0bbd85;
+}
+
+.slide6-bg {
+    background: url(../images/Slide6BGG.png);
+    background-size: 1024px 768px;
+}
+
+.preserve-image {
+    width: 342px;
+    height: 577px;
+}
+
+.preserve-position {
+    position: absolute;
+    left: 19px;
+    top: 137px;
+}
+
+.fs-28 {
+    font-size: 28px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.h1-position {
+    position: absolute;
+    left: 110px;
+    top: 218px;
+}
+
+.preserve-container {
+    position: absolute;
+    left: 110px;
+    top: 275px;
+    width: 370px;
+    height: 74px;
+}
+
+.preserve-heading {
+    position: absolute;
+    left: 139px;
+    top: 304px;
+    width: 327px;
+}
+
+.fs-16 {
+    font-size: 16px;
+}
+
+.sub-size {
+    width: 76px;
+    height: 48px;
+}
+
+.sub-1 {
+    position: absolute;
+    left: 110px;
+    top: 353px;
+}
+
+.sub-2 {
+    position: absolute;
+    left: 110px;
+    top: 406px;
+}
+
+.sub-3 {
+    position: absolute;
+    left: 110px;
+    top: 458px;
+}
+
+.sub-4 {
+    position: absolute;
+    left: 110px;
+    top: 511px;
+}
+
+.white-size {
+    width: 370px;
+    height: 48px;
+}
+
+.mini-size {
+    width: 37px;
+    height: 16px;
+}
+
+.mini-1 {
+    position: absolute;
+    left: 168px;
+    top: 369px;
+}
+
+.mini-2 {
+    position: absolute;
+    left: 168px;
+    top: 422px;
+}
+
+.mini-3 {
+    position: absolute;
+    left: 168px;
+    top: 474px;
+}
+
+.mini-4 {
+    position: absolute;
+    left: 168px;
+    top: 527px;
+}
+
+.content-1 {
+    position: absolute;
+    left: 203px;
+    top: 372px;
+    width: 278px;
+}
+
+.content-2 {
+    position: absolute;
+    left: 207px;
+    top: 425px;
+    width: 273px;
+}
+
+.content-3 {
+    position: absolute;
+    left: 211px;
+    top: 467px;
+    width: 264px;
+}
+
+.content-4 {
+    position: absolute;
+    left: 240px;
+    top: 528px;
+    width: 206px;
+}
+
+.fs-14 {
+    font-size: 14px;
+}
+
+.larger-container {
+    width: 427px;
+    height: 502px;
+    position: absolute;
+    left: 520px;
+    top: 127px;
+}
+
+.medicine-bg {
+    width: 286px;
+    height: 370px;
+    position: absolute;
+    left: 584px;
+    top: 197px;
+}
+
+.medicine {
+    width: 220px;
+    height: 228px;
+    position: absolute;
+    left: 618px;
+    top: 264px;
+}
+
+.nav-color {
+    background-color: #067252;
+}
+
+.active {
+    background-color: #0bbd85;
+}
+
+.inactive {
+    background-color: #067252;
+    border: none;
+}
+
+.w-988 {
+    width: 988px;
+}
+
+.br-10 {
+    border-radius: 4px;
+}
+
+.p-10 {
+    padding: 10px;
+}
+
+.m-5 {
+    margin: 5px;
+}
+
+.btn {
+    width: 135px;
+    height: 40px;
+}
+
+.h-70 {
+    height: 70px;
+}
+
+.fs-15 {
+    font-size: 15px;
+}
+
+.nav-position {
+    position: fixed;
+    left: 18px;
+    top: 701px;
+}
+
+.logo-size {
+    width: 141px;
+    height: 81px;
+    position: absolute;
+    left: 40px;
+}

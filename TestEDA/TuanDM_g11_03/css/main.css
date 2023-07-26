@@ -1,0 +1,177 @@
+.content .text_demo {
+    color: blueviolet;
+    font-size: 50px;
+    font-weight: 700;
+    position: absolute;
+    left: 70px;
+}
+
+footer .text_demo {
+    color: blueviolet;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    left: 70px;
+}
+
+.row {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.pr {
+    position: relative;
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.resized-image {
+    width: 50%;
+    height: 50%;
+}
+
+.font-Sans {
+    font-family: 'ClearSans';
+}
+
+.font-Avenir {
+    font-family: 'Avenir';
+}
+
+.fw-bold {
+    font-weight: bold;
+}
+
+.text-white {
+    color: white;
+}
+
+.decoration-none {
+    text-decoration: none;
+}
+
+.item-center {
+    align-items: center;
+}
+
+.space-evenly {
+    justify-content: space-evenly
+}
+
+.oldman-bg {
+    background: url(../images/Medicine.png);
+    background-size: 1024px 768px;
+}
+
+.h1-position {
+    position: absolute;
+    left: 99px;
+    top: 154px;
+}
+
+.fs-28 {
+    font-size: 28px;
+}
+
+.fs-15 {
+    font-size: 15px;
+}
+
+.fs-12 {
+    font-size: 12px;
+}
+
+.fs-18 {
+    font-size: 18px;
+}
+
+.darkgreen {
+    color: #067252;
+}
+
+.pb-20 {
+    padding-bottom: 20px;
+}
+
+.pb-10 {
+    padding-bottom: 10px;
+}
+
+.kerrning-normal {
+    font-kerning: normal;
+}
+
+.price-position {
+    position: fixed;
+    left: 347px;
+    top: 592px;
+}
+
+.w-500 {
+    width: 600px;
+}
+
+.nav-color {
+    background-color: #067252;
+}
+
+.active {
+    background-color: #0bbd85;
+}
+
+.inactive {
+    background-color: #067252;
+    border: none;
+}
+
+.w-988 {
+    width: 988px;
+}
+
+.br-10 {
+    border-radius: 4px;
+}
+
+.p-10 {
+    padding: 10px;
+}
+
+.m-5 {
+    margin: 5px;
+}
+
+.btn {
+    width: 135px;
+    height: 40px;
+}
+
+.h-70 {
+    height: 70px;
+}
+
+.fs-15 {
+    font-size: 15px;
+}
+
+.height-unset {
+    height: unset;
+}
+
+.nav-position {
+    position: fixed;
+    left: 18px;
+    top: 701px;
+}
+
+.logo-size {
+    width: 141px;
+    height: 81px;
+    position: absolute;
+    left: 40px;
+}
